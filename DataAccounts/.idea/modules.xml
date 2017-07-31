@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataAccounts.iml" filepath="$PROJECT_DIR$/.idea/modules/DataAccounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataAccounts_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DataAccounts_main.iml" group="DataAccounts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataAccounts_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DataAccounts_test.iml" group="DataAccounts" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JdbcAccounts.iml" filepath="$PROJECT_DIR$/.idea/modules/JdbcAccounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JdbcAccounts_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JdbcAccounts_main.iml" group="JdbcAccounts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JdbcAccounts_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JdbcAccounts_test.iml" group="JdbcAccounts" />
+    </modules>
+  </component>
+</project>
